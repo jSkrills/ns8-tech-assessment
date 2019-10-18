@@ -1,7 +1,7 @@
 # Technical Assessment
 
 ## Overview
-I connected this api to mLab the username is **theOriginalUser** and password is **openSesam3**. That should all fine in the app.ts file in the mongoUrl. Please let me know if you have any connection issues there. I am also attempting to share my Postman collection that I used to test the api for easier testing, also let me know if you have trouble with that.
+I connected this api to a sandbox db within mLab. The credentials and url to access that db should be in the app.ts. If for some reason you want to get into my mLab account to veiw something just let me know and I will provide that also. I am also attempting to share my Postman collection that I used to test the api below. If you are having access problems with either of these please reach out to me. Other than that you should be able to start things up by just running: "npm run dev" at the project root.
 
 [![Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23618d327166f600c168)
 
