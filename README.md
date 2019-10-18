@@ -3,7 +3,7 @@
 ## Overview
 I connected this api to mLab the username is **theOriginalUser** and password is **openSesam3**. That should all fine in the app.ts file in the mongoUrl. Please let me know if you have any connection issues there. I am also attempting to share my Postman collection that I used to test the api for easier testing, also let me know if you have trouble with that.
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23618d327166f600c168)
+[![Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23618d327166f600c168)
 
 ## Assumptions / Future considerations
 -I split out the models and controllers because that's how it would likely be separated in a production environment
